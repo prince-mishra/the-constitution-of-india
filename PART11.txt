@@ -25,6 +25,17 @@ Constitution referred to as the “State List”').
 (4) Parliament has power to make laws with respect to any matter for
 any part of the territory of India not included in a State notwithstanding that
 such matter is a matter enumerated in the State List.
+246A. (1) Notwithstanding anything contained in articles 246 and 254,
+Parliament, and, subject to clause (2), the Legislature of every State, have power to
+make laws with respect to goods and services tax imposed by the Union or by such
+State.
+(2) Parliament has exclusive power to make laws with respect to goods and
+services tax where the supply of goods, or of services, or both takes place in the
+course of inter-State trade or commerce.
+Explanation.—The provisions of this article, shall, in respect of goods and
+services tax referred to in clause (5) of article 279A, take effect from the date
+recommended by the Goods and Services Tax Council.
+
 247. Power of Parliament to provide for the establishment of certain
 additional courts.—Notwithstanding anything in this Chapter, Parliament may
 by law provide for the establishment of any additional courts for the better
@@ -36,12 +47,12 @@ to a matter enumerated in the Union List.
 
 THE CONSTITUTION OF INDIA
 
-248. Residuary powers of legislation.—(1) Parliament has exclusive
+248. Residuary powers of legislation.—(1) Subject to article 246A, Parliament has exclusive
 power to make any law with respect to any matter not enumerated in the
 Concurrent List or State List.
 (2) Such power shall include the power of making any law imposing a
 tax not mentioned in either of those Lists.
-249. Power of Parliament to legislate with respect to a matter in the
+249. Power of Parliament to legislate with respect to goods and services tax provided under article 246A or a matter in the
 State List in the national interest.—(1) Notwithstanding anything in the
 foregoing provisions of this Chapter, if the Council of States has declared by
 resolution supported by not less than two-thirds of the members present and
@@ -68,7 +79,7 @@ f
 six months after the resolution has ceased to be in force, except as respects th
 ings
 done or omitted to be done before the expiration of the said period.
-250. Power of Parliament to legislate with respect to any matter in
+250. Power of Parliament to legislate with respect to goods and services tax provided under article 246A or any matter in
 the State List if a Proclamation of Emergency is in operation.—(1)
 Notwithstanding anything in this Chapter, Parliament shall, while a
 Proclamation of Emergency is in operation, have power to make laws for the

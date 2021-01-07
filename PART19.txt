@@ -211,6 +211,9 @@ make such a law, Ordinance, order, bye-law, rule or regulation;
 (11) “Federal Court” means the Federal Court constituted under
 the Government of India Act, 1935;
 (12) “goods” includes all materials, commodities, and articles;
+(12A) “goods and services tax” means any tax on supply of goods, or
+services or both except taxes on the supply of the alcoholic liquor for human
+consumption;
 (13) “guarantee” includes any obligation undertaken before the
 commencement of this Constitution to make payments in the event of the
 profits of an undertaking falling short of a specified amount;
@@ -262,6 +265,9 @@ or parts of or groups within such tribes or tribal communities as are
 deemed under article 342 to be Scheduled Tribes for the purposes of this
 Constitution;
 (26) “securities” includes stock;
+(26A) “Services” means anything other than goods;
+(26B) “State” with reference to articles 246A, 268, 269, 269A and article
+279A includes a Union territory with Legislature;
 *
 *
 *

@@ -47,8 +47,7 @@ meeting unforeseen expenditure pending authorisation of such expenditure by the
 Legislature of the State by law under article 205 or article 206.
 Distribution of Revenues between the Union and the States
 268. Duties levied by the Union but collected and appropriated by
-the States.—(1) Such stamp duties and such duties of excise on medicinal and
-toilet preparations as are mentioned in the Union List shall be levied by the
+the States.—(1) Such stamp duties as are mentioned in the Union List shall be levied by the
 Government of India but shall be collected—
 (a) in the case where such duties are leviable within any Union
 territory, by the Government of India, and
@@ -59,31 +58,12 @@ any State shall not form part of the Consolidated Fund of India, but shall be
 assigned to that State.
 
  
-"268A. Service tax levied by Union and collected and appropriated by the Union a
-nd the
-States.-(1) Taxes on services shall be levied by the Government of India and suc
-h tax
-shall be collected and appropriated by the Government of India and the States in
- the
-manner provided in clause (2).
- 
-(2) The proceeds in any financial year of any such tax levied in accordance with
- the
-provisions of clause (1) shall be-
- 
-(a) collected by the Government of India and the States;
- 
-(b) appropriated by the Government of India and the States,
- 
-in accordance with such principles of collection and appropriation as may be for
-mulated
-by Parliament by law.".
 
 
 
 269. Taxes levied and collected by the Union but assigned to the
 States.— (1) Taxes on the sale or purchase of goods and taxes on the
-consignment of goods shall be levied and collected by the Government of India
+consignment of goods except as provided in article 269A shall be levied and collected by the Government of India
 but shall be assigned and shall be deemed to have been assigned to the States
 on or after the 1st day of April, 1996 in the manner provided in clause (2).
 Explanation.—For the purposes of this clause,—
@@ -110,15 +90,44 @@ formulated by Parliament by law.
 (3) Parliament may by law formulate principles for determining when a
 sale or purchase of, or consignment of, goods takes place in the course of inter
 State trade or commerce.
+
+269A. (1) Goods and services tax on supplies in the course of inter-State trade
+or commerce shall be levied and collected by the Government of India and such tax
+shall be apportioned between the Union and the States in the manner as may be
+provided by Parliament by law on the recommendations of the Goods and Services
+Tax Council.
+Explanation.—For the purposes of this clause, supply of goods, or of services,
+or both in the course of import into the territory of India shall be deemed to be supply
+of goods, or of services, or both in the course of inter-State trade or commerce.
+(2) The amount apportioned to a State under clause (1) shall not form part of the
+Consolidated Fund of India.
+(3) Where an amount collected as tax levied under clause (1) has been used for
+payment of the tax levied by a State under article 246A, such amount shall not form
+part of the Consolidated Fund of India.
+(4) Where an amount collected as tax levied by a State under article 246A has
+been used for payment of the tax levied under clause (1), such amount shall not form
+part of the Consolidated Fund of the State.
+(5) Parliament may, by law, formulate the principles for determining the place of
+supply, and when a supply of goods, or of services, or both takes place in the course
+of inter-State trade or commerce.
+
 270. Taxes levied and distributed between the Union and the
 States.—(1) All taxes and duties referred to in the Union List, except the dutie
 s
-and taxes referred to in articles 268, 268A and 269, respectively, surcharge on 
+and taxes referred to in articles 268, 269 and 269A, respectively, surcharge on 
 taxes
 and duties referred to in article 271 and any cess levied for specific purposes
 under any law made by Parliament shall be levied and collected by the
 Government of India and shall be distributed between the Union and the States
 in the manner provided in clause (2).
+(1A) The tax collected by the Union under clause (1) of article 246A shall
+also be distributed between the Union and the States in the manner provided in
+clause (2).
+(1B) The tax levied and collected by the Union under clause (2) of article
+246A and article 269A, which has been used for payment of the tax levied by the
+Union under clause (1) of article 246A, and the amount apportioned to the
+Union under clause (1) of article 269A, shall also be distributed between the
+Union and the States in the manner provided in clause (2).
 (2) Such percentage, as may be prescribed, of the net proceeds of any
 such tax or duty in any financial year shall not form part of the Consolidated
 Fund of India, but shall be assigned to the States within which that tax or duty
@@ -133,7 +142,7 @@ the President by order after considering the recommendations of the
 Finance Commission.
 271. Surcharge on certain duties and taxes for purposes of the
 Union.—Notwithstanding anything in articles 269 and 270, Parliament may at
-any time increase any of the duties or taxes referred to in those articles by a
+any time increase any of the duties or taxes referred to in those articles except the goods and services tax under article 246A by a
 surcharge for purposes of the Union and the whole proceeds of any such
 surcharge shall form part of the Consolidated Fund of India.
 272. [Taxes which are levied and collected by the Union and may be
@@ -275,6 +284,70 @@ calculated, for the time from or at which and the manner in which any
 payments are to be made, for the making of adjustments between one financial
 year and another, and for any other incidental or ancillary matters.
 
+279A. (1) The President shall, within sixty days from the date of commencement
+of the Constitution (One Hundred and First Amendment) Act, 2016, by order, constitute
+a Council to be called the Goods and Services Tax Council.
+(2) The Goods and Services Tax Council shall consist of the following members,
+namely:—
+(a) the Union Finance Minister........................ Chairperson;
+(b) the Union Minister of State in charge of Revenue or
+Finance................. Member;
+(c) the Minister in charge of Finance or Taxation or any other Minister
+nominated by each State Government....................Members.
+(3) The Members of the Goods and Services Tax Council referred to in
+sub-clause (c) of clause (2) shall, as soon as may be, choose one amongst themselves
+to be the Vice-Chairperson of the Council for such period as they may decide.
+(4) The Goods and Services Tax Council shall make recommendations to the
+Union and the States on—
+(a) the taxes, cesses and surcharges levied by the Union, the States and
+the local bodies which may be subsumed in the goods and services tax;
+(b) the goods and services that may be subjected to, or exempted from the
+goods and services tax;
+(c) model Goods and Services Tax Laws, principles of levy, apportionment
+of Goods and Services Tax levied on supplies in the course of inter-State trade or
+commerce under article 269A and the principles that govern the place of supply;
+(d) the threshold limit of turnover below which goods and services may be
+exempted from goods and services tax;
+(e) the rates including floor rates with bands of goods and services tax;
+(f) any special rate or rates for a specified period, to raise additional
+resources during any natural calamity or disaster;
+(g) special provision with respect to the States of Arunachal Pradesh,
+Assam, Jammu and Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim,
+Tripura, Himachal Pradesh and Uttarakhand; and
+(h) any other matter relating to the goods and services tax, as the Council
+may decide.
+(5) The Goods and Services Tax Council shall recommend the date on which the
+goods and services tax be levied on petroleum crude, high speed diesel, motor spirit
+(commonly known as petrol), natural gas and aviation turbine fuel.
+(6) While discharging the functions conferred by this article, the Goods and
+Services Tax Council shall be guided by the need for a harmonised structure of goods
+and services tax and for the development of a harmonised national market for goods
+and services.
+(7) One-half of the total number of Members of the Goods and Services Tax
+Council shall constitute the quorum at its meetings.
+(8) The Goods and Services Tax Council shall determine the procedure in the
+performance of its functions.
+(9) Every decision of the Goods and Services Tax Council shall be taken at a
+meeting, by a majority of not less than three-fourths of the weighted votes of the
+members present and voting, in accordance with the following principles, namely:—
+(a) the vote of the Central Government shall have a weightage of onethird of the total votes cast, and
+(b) the votes of all the State Governments taken together shall have a
+weightage of two-thirds of the total votes cast,
+in that meeting.
+(10) No act or proceedings of the Goods and Services Tax Council shall be
+invalid merely by reason of—
+(a) any vacancy in, or any defect in, the constitution of the Council; or
+(b) any defect in the appointment of a person as a Member of the Council; or
+(c) any procedural irregularity of the Council not affecting the merits of
+the case.
+(11)The Goods and Services Tax Council shall establish a mechanism to adjudicate
+any dispute —
+(a) between the Government of India and one or more States; or
+(b) between the Government of India and any State or States on one side
+and one or more other States on the other side; or
+(c) between two or more States,
+arising out of the recommendations of the Council or implementation thereof.
+
 139
 
 THE CONSTITUTION OF INDIA
@@ -370,26 +443,19 @@ THE CONSTITUTION OF INDIA
 
 286. Restrictions as to imposition of tax on the sale or purchase of
 goods.—(1) No law of a State shall impose, or authorise the imposition of, a
-tax on the sale or purchase of goods where such sale or purchase takes place—
+tax on the supply of goods or of services or both,
+where such supply takes place—
 (a) outside the State; or
-(b) in the course of the import of the goods into, or export of the
-goods out of, the territory of India.
+(b) in the course of the import of the goods or services or both into, or export of the
+goods or services or both out of, the territory of India.
 *
 *
 *
 *
 (2) Parliament may by law formulate principles for determining when a
-sale or purchase of goods takes place in any of the ways mentioned in clause (1)
+supply of goods or of services or both in any of the ways mentioned in clause (1)
 .
-(3) Any law of a State shall, in so far as it imposes, or authorises the
-imposition of,—
-(a) a tax on the sale or purchase of goods declared by Parliament
-by law to be of special importance in inter-State trade or commerce; or
-(b) a tax on the sale or purchase of goods, being a tax of the
-nature referred to in sub-clause (b), sub-clause (c) or sub-clause (d) of
-clause (29A) of article 366,
-be subject to such restrictions and conditions in regard to the system of levy,
-rates and other incidents of the tax as Parliament may by law specify.
+
 287. Exemption from taxes on electricity.—Save in so far as
 Parliament may by law otherwise provide, no law of a State shall impose, or
 authorise the imposition of, a tax on the consumption or sale of electricity
